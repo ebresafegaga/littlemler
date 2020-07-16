@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="BuildingOnBlocks.fsx" />
+    <Compile Include="OhNo.fsx" />
+    <Compile Include="BowsAndArrows.fsx" />
+    <Compile Include="FunctionsArePeopleToo.fsx" />
+    <Compile Include="FullOfStars.fsx" />
+    <Compile Include="CouplesAreMagnificentToo.fsx" />
+    <Compile Include="LookToTheStars.fsx" />
+    <Compile Include="ConsIsStillMagnificent.fsx" />
+    <Compile Include="MatchMaker.fsx" />
+    <Compile Include="BuildingBlocks.fsx" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>
